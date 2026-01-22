@@ -65,7 +65,7 @@ This repository contains resources for the Bitwarden brand such as logos, icons,
 
 | Use Case  | Link |  Weights  |
 |---|---|---|
-| Product use  |  [Open Sans](https://fonts.google.com/specimen/Open+Sans)  | 400 (normal), 500 (medium), 700 (bold) |
+| Product use  |  [Inter](https://fonts.google.com/specimen/inter)  | 300 (light), 400 (regular), 500 (medium), 600 (semi-bold), 700 (bold) |
 | Website use  |  [Inter](https://fonts.google.com/specimen/inter)  | 300 (light), 400 (regular), 500 (medium), 600 (semi-bold), 700 (bold) |
 
 ## Other Things To Know
